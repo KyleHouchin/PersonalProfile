@@ -1,152 +1,123 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "",
+    "email": "kyle@houchin.us",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://kylehouchin.github.io/PersonalProfile",
+    "summary": "Currently an Engineering Student @ Virginia Tech - Designing Circuits, Making Music, Creating Content",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Blacksburg",
       "countryCode": "US",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "KyleHouchin",
+        "url": "https://www.linkedin.com/in/kyle-houchin/"
       },
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/KyleHouchin"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Northern VA Community College",
+      "area": "Database Specialist Certificate",
       "studyType": "",
       "startDate": "",
       "endDate": "2018",
       "gpa": null,
-      "courses": []
+      "courses": ["PL/SQL"]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Virginia Tech",
+      "area": "B.S. in Electrical Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2027",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Virginia Tech",
+      "area": "B.S. in Computuer Engineering, Minor in Music Technologies",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2027",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": ["Leadership", "Community Building"],
   "languages": [],
-  "interests": [],
+  "interests": ["Audio Technology", "Electrical Design"],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "Home Audio Amplifier with Graphic Equalizer",
       "category": "portfolio",
       "date": "",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Lead team of 2 to comprehensively design, prototype, and build a graphic equalizer with a live spectrogram display and power efficient amplifier using Pulse Width Modulation.<br/><img src='/images/500x300.png'>"
+    },
+    {
+      "name": "Pixel Monarch Embedded Systems",
+      "category": "portfolio",
+      "date": "",
+      "url": "",
+      "description": "Designed and implemented a microcontroller game on an MSP432 using eUSCI_A0 UART and eUSCI_B2 SPI-driven LCD; supported two presets with a variable territory grid (3×3 or 5×5) for flexible gameplay modes.<br/><img src='/images/500x300.png'>"
+    },
+    {
+      "name": "Touhou Embedded Systems",
+      "category": "portfolio",
+      "date": "",
+      "url": "",
+      "description": "Designed and implemented a real-time bullet hell game on an MSP432 microcontroller using Timer32 software timers to drive a selectable framerate (15 / 30 / 60 FPS), ensuring frame independent movement by scaling all object motion with measured deltaTime.<br/><img src='/images/500x300.png'>"
+    },
+    {
+      "name": "Cookie Clicker Embedded Systems",
+      "category": "portfolio",
+      "date": "",
+      "url": "",
+      "description": "Designed and implemented a microcontroller-based idle game on an MSP432 using SPI-driven LCD and ADC-read joystick; implemented non blocking architecture with interrupt-driven sleep/wake so the MCU executes one main loop per wakeup, minimizing active runtime.<br/><img src='/images/500x300.png'>"
+    },
+    {
+      "name": "Vertical Aesthetic Wind Turbine",
+      "category": "portfolio",
+      "date": "",
+      "url": "",
+      "description": "Designed a portable VAWT to deliver renewable on trail charging for backpackers—prioritizing safety, minimal environmental impact, and emergency device reliability for users and regional stewards.<br/><img src='/images/500x300.png'>"
+    },
+    {
+      "name": "Website Project Manager",
+      "category": "portfolio",
+      "date": "",
+      "url": "",
+      "description": "Managed a team of 20 students to create an application to allow upcoming IT program students to visualize the classes paths with eligibility through prerequisites.<br/><img src='/images/500x300.png'>"
+    },
+    {
+      "name": "Music and Wave Physics Undergraduate Research",
+      "category": "portfolio",
+      "date": "",
+      "url": "",
+      "description": "Researched and modeled resonance equations in MATLAB to pick the perfect dimensions and attributes for the resonance box and string system, furthering design decisions for a sonometer project used to visually and audibly demonstrate physics concepts to grade-school students.<br/><img src='/images/500x300.png'>"
+    },
+    {
+      "name": "Analog Guitar Amplifier",
+      "category": "portfolio",
+      "date": "",
+      "url": "",
+      "description": "Researched the use of Op-amps, diodes, transistors in the application of building a guitar amp. Designed circuit schematics and ran simulations in LTspice. Tests with analog testing equipment on a breadboard resulted in a working amplifier.<br/><img src='/images/500x300.png'>"
     }
   ]
 }
