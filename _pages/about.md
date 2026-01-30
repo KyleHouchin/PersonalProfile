@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This website attempts to expand on the question: "Who is Kyle"? (nothing beats a face-to-face conversation),
+This website attempts to expand on the question: "Who is Kyle?" (nothing beats a face-to-face conversation),
 but the background covered here might peak your curiosity enough to make the latter happen.
 
 My Mission
@@ -18,7 +18,7 @@ By the moment my time passes, the legacy I'll leave will help people feel seen a
 My favorite compliment I have ever been given was "Kyle, you talk to people like you've known them for years."
 In whatever community I'm placed in, I seek to help people step out of social norms, advocate for themselves, and make ripples in the environments around them. 
 
-Aside from my work as an electrical engineering student, am obssessed with reading psychology literature, and collaborating with others to create music that speaks to the soul.
+Aside from my work as an electrical engineering student, I'm obssessed with reading psychology literature, and collaborating with others to create music that speaks to the soul.
 Creating a real depth of connection with everyone from my coffee shop barista to my peers and my leaders.
 
 Website Summary
